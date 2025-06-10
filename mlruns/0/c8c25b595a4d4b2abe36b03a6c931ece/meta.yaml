@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/c8c25b595a4d4b2abe36b03a6c931ece/artifacts
+deleted_time: 1749574312709
+end_time: 1749574277023
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: c8c25b595a4d4b2abe36b03a6c931ece
+run_name: abrasive-hound-774
+run_uuid: c8c25b595a4d4b2abe36b03a6c931ece
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749574276823
+status: 4
+tags: []
+user_id: mananshah

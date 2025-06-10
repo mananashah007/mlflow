@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/bd8b90ccb1634a14be80dc2f8889ffdb/artifacts
+deleted_time: 1749574312701
+end_time: 1749574172445
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: bd8b90ccb1634a14be80dc2f8889ffdb
+run_name: zealous-sloth-159
+run_uuid: bd8b90ccb1634a14be80dc2f8889ffdb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749574172274
+status: 4
+tags: []
+user_id: mananshah

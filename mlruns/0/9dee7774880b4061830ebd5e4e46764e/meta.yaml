@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/9dee7774880b4061830ebd5e4e46764e/artifacts
+deleted_time: 1749574312699
+end_time: 1749574144078
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 9dee7774880b4061830ebd5e4e46764e
+run_name: amusing-sloth-215
+run_uuid: 9dee7774880b4061830ebd5e4e46764e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749574143939
+status: 4
+tags: []
+user_id: mananshah

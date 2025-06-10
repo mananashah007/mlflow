@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/257b2a2a57004908b07cb077c738fd8b/artifacts
+deleted_time: 1749574312691
+end_time: 1749574160936
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 257b2a2a57004908b07cb077c738fd8b
+run_name: bright-shoat-577
+run_uuid: 257b2a2a57004908b07cb077c738fd8b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749574160820
+status: 4
+tags: []
+user_id: mananshah

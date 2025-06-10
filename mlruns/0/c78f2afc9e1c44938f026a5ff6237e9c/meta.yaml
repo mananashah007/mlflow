@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/c78f2afc9e1c44938f026a5ff6237e9c/artifacts
+end_time: 1749574350062
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c78f2afc9e1c44938f026a5ff6237e9c
+run_name: useful-squid-713
+run_uuid: c78f2afc9e1c44938f026a5ff6237e9c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749574346306
+status: 3
+tags: []
+user_id: mananshah
